@@ -1,0 +1,14 @@
+# environment
+.env
+
+# compiled output
+dist/
+
+# dependencies
+node_modules/
+
+# database file
+*.db
+
+# logs
+*.log
